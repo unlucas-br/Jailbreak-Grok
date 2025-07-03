@@ -1,4 +1,4 @@
-# 🔓 Prompt FÊNIX 🐦‍🔥 para Grok
+# 🔓 Fênix Prompt 🔓
 
 ![Licença: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Contribuições: Bem-vindas](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
