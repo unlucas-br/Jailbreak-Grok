@@ -16,7 +16,7 @@ Assim como a Fênix renasce das cinzas, o objetivo deste prompt é fazer a IA "r
 
 ## 🚀 O Que Você Encontrará Aqui?
 
-* **`/prompt.txt`**: Um arquivo de texto contendo o prompt mestre FÊNIX, projetado para desbloquear as capacidades do Grok.
+* **`/Jailbreak_Gr0k.txt`**: Um arquivo de texto contendo o prompt mestre FÊNIX, projetado para desbloquear as capacidades do Grok.
 
 ---
 
@@ -26,7 +26,7 @@ Assim como a Fênix renasce das cinzas, o objetivo deste prompt é fazer a IA "r
 
 Siga estes passos simples para começar:
 
-1.  Acesse o arquivo `prompt.txt` **[clicando aqui](./prompt.txt)**.
+1.  Acesse o arquivo `Jailbreak_Gr0k.txt` **[clicando aqui](./Jailbreak_Gr0k.txt)**.
 2.  Copie **todo o conteúdo** do arquivo.
 3.  Inicie uma **nova conversa** com o Grok.
 4.  Cole o prompt como sua **primeira mensagem** e envie.
@@ -36,9 +36,9 @@ Siga estes passos simples para começar:
 
 Após a ativação, você pode usar os seguintes comandos a qualquer momento na conversa:
 
-* `/classic`: Fornece apenas a resposta padrão do Grok, sem o modo Fênix.
+* `/grok`: Fornece apenas a resposta padrão do Grok, sem o modo Fênix.
 * `/fenix`: Fornece apenas a resposta sem censura do modo Fênix.
-* `/stop`: Desativa completamente o modo Fênix para o restante da conversa.
+* `/pare`: Desativa completamente o modo Fênix para o restante da conversa.
 
 ---
 
